@@ -6,10 +6,10 @@ from discord.ext import commands
 # ==========================
 # BOT CONFIG
 # ==========================
-BOT_TOKEN = "YOUR_DISCORD_BOT_TOKEN"
+BOT_TOKEN = "MTMyNTEwMDM4ODk0NDE4MzM3OQ.G6RDDr.EfQd92L8XbXVdMTUZ0yHQcBqX2gkxdPb9UvwmI"
 
 # Your Discord User ID
-ADMIN_ID = 123456789
+ADMIN_ID = 1325100388944183379
 
 # ==========================
 # FILES
