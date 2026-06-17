@@ -6,7 +6,7 @@ from discord.ext import commands
 # ==========================
 # BOT CONFIG
 # ==========================
-BOT_TOKEN = "MTMyNTEwMDM4ODk0NDE4MzM3OQ.G6RDDr.EfQd92L8XbXVdMTUZ0yHQcBqX2gkxdPb9UvwmI"
+BOT_TOKEN = MTUxNjg5NjEzMjg1MTE3MTUwOA.GlYN3L.0_NWwZeZTCIRmP_45wGAocLwQS3JYxBxCZOmwU
 
 # Your Discord User ID
 ADMIN_ID = 1325100388944183379
